@@ -1,0 +1,95 @@
+\begin{thebibliography}{10}
+
+\bibitem{Astrid11}
+J.~C Vink J.D.~Jansen P.~Astrid, G.~Papaioannou.
+\newblock {Pressure Preconditioning Using Proper Orthogonal Decomposition.}
+\newblock In {\em 2011 SPE Reservoir Simulation Symposium, The Woodlands,
+  Texas, USA}, January 2011.
+
+\bibitem{Mark06}
+R.~Markovinovi{\'c} and J.~D. Jansen.
+\newblock {Accelerating iterative solution methods using reduced-order models
+  as solution predictors.}
+\newblock {\em International journal for numerical methods in engineering},
+  68(5):525--541, 2006.
+
+\bibitem{Pasetto16}
+{Pasetto, Damiano and Ferronato, Massimiliano and Putti, Mario}.
+\newblock {A reduced order model-based preconditioner for the efficient
+  solution of transient diffusion equations}.
+\newblock {\em {International Journal for Numerical Methods in Engineering}},
+  {2016}.
+
+\bibitem{Carlberg15}
+{Carlberg, Kevin and Forstall, Virginia and Tuminaro, Ray}.
+\newblock {Krylov-subspace recycling via the POD-augmented conjugate-gradient
+  algorithm}.
+\newblock {\em {arXiv preprint arXiv:1512.05820}}, {2015}.
+
+\bibitem{Vuik99}
+A.~Segal C.~Vuik and J.~A. Meijerink.
+\newblock {An Efficient Preconditioned CG Method for the Solution of a Class of
+  Layered Problems with Extreme Contrasts in the Coefficients.}
+\newblock {\em Journal of Computational Physics}, 152:385, 1999.
+
+\bibitem{Christie01}
+M.A. Christie and M.J. Blunt.
+\newblock Tenth spe comparative solution project: a comparison of upscaling
+  techniques.
+\newblock {\em SPE Reservoir Engineering and Evaluation}, 4(4):308--317, 2001.
+
+\bibitem{Saad03}
+Y.~Saad.
+\newblock {\em {Iterative Methods for Sparse Linear Systems.}}
+\newblock Society for Industrial and Applied Mathematics Philadelphia, PA, USA.
+  2nd edition, 2003.
+
+\bibitem{Tang08}
+J.~Tang.
+\newblock {\em {Two-Level Preconditioned Conjugate Gradient Methods with
+  Applications to Bubbly Flow Problems}}.
+\newblock PhD thesis, Delft University of Technology, 2008.
+
+\bibitem{Tang09}
+C.~Vuik J.M.~Tang, R.~Nabben and Y.~Erlangga.
+\newblock Comparison of two-level preconditioners derived from deflation,
+  domain decomposition and multigrid methods.
+\newblock {\em Journal of scientific computing}, 39(3):340--370, 2009.
+
+\bibitem{Clemens04}
+R.~Schuhmann M.~Clemens, M.~Wilke and T.~Weiland.
+\newblock {Subspace projection extrapolation scheme for transient field
+  simulations.}
+\newblock {\em IEEE Transactions on Magnetics}, 40(2):934--937, 2004.
+
+\bibitem{Vuik02}
+L.~Yaakoubi C.~Vuik, A.~Segal and E.~Dufour.
+\newblock {A comparison of various deflation vectors applied to elliptic
+  problems with discontinuous coefficients.}
+\newblock {\em Applied Numerical Mathematics}, 41(1):219--233, 2002.
+
+\bibitem{Smith96}
+W.~Gropp B.~Smith, P.~Bjorstad.
+\newblock {\em {Domain decomposition: parallel multilevel methods for elliptic
+  partial differential equations.}}
+\newblock Cambridge University Press New York, 1996.
+
+\bibitem{Strang09}
+G.~Strang.
+\newblock {\em Linear Algebra and Its Applications}.
+\newblock Wellesley-Cambridge Press, 2009.
+
+\bibitem{Lie13}
+K.~A. Lie.
+\newblock {\em {An Introduction to Reservoir Simulation Using MATLAB: User
+  guide for the Matlab Reservoir Simulation Toolbox (MRST).}}
+\newblock SINTEF ICT, 2013.
+
+\bibitem{Diaz16}
+{G. B. Diaz Cortes; C. Vuik and J. D. Jansen }.
+\newblock {Physics-based pre-conditioners for large-scale subsurface flow
+  simulation}.
+\newblock Technical report, {Delft University of Technology, Department of
+  Applied Mathematics}, {03} {2016}.
+
+\end{thebibliography}

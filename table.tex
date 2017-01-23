@@ -1,0 +1,123 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+
+%opening
+\title{}
+\author{}
+
+\begin{document}
+
+\begin{table}[!ht]\centering
+\begin{minipage}{1\textwidth}
+\vspace{-10pt}
+\centering
+\begin{tabular}{ |c|c|c|c|c|c|c|c|} 
+  \hline
+ & & \multicolumn{6}{|c|}{$1^{st}$ NR Iteration}  \\
+\hline
+Size&Method&  \multicolumn{2}{|c|}{Time steps} &\multicolumn{2}{|c|}{Average L-iter} & \multicolumn{2}{|c|}{Tot L-iter}\\
+\hline
+$35\times35$& &\multicolumn{2}{|c|}{} & \multicolumn{2}{|c|}{}& \multicolumn{2}{|c|}{} \\
+
+$70\times70$&ICCG&\multicolumn{2}{|c|}{}& \multicolumn{2}{|c|}{}& \multicolumn{2}{|c|}{}\\
+
+$105\times105$& & \multicolumn{2}{|c|}{} &\multicolumn{2}{|c|}{} & \multicolumn{2}{|c|}{}\\
+\hline
+&&Snapshots&DICCG&Snapshots&DICCG&Snapshots&DICCG\\
+\hline
+$35\times35$&DICCG$_{10}$&&&&&& \\
+&DICCG$_6$&&&&&& \\
+\hline
+$70\times70$&DICCG$_{10}$ && &&&& \\
+&DICCG$_6$ &&&& &&\\
+\hline
+$105\times105$&DICCG$_{10}$ && && && \\
+&DICCG$_6$&& && && \\
+\hline
+ \end{tabular}
+%\caption{}\label{table:liter2}
+\end{minipage}
+\end{table}
+
+\begin{table}[!ht]\centering
+\begin{minipage}{1\textwidth}
+\vspace{-10pt}
+\centering
+\begin{tabular}{ |c|c|c|c|c|c|c|c|} 
+  \hline
+ & & \multicolumn{6}{|c|}{$2^{nd}$ NR Iteration}  \\
+\hline
+Size&Method&  \multicolumn{2}{|c|}{Time steps} &\multicolumn{2}{|c|}{Average L-iter} & \multicolumn{2}{|c|}{Tot L-iter}\\
+\hline
+$35\times35$& &\multicolumn{2}{|c|}{} & \multicolumn{2}{|c|}{}& \multicolumn{2}{|c|}{} \\
+
+$70\times70$&ICCG&\multicolumn{2}{|c|}{}& \multicolumn{2}{|c|}{}& \multicolumn{2}{|c|}{}\\
+
+$105\times105$& & \multicolumn{2}{|c|}{} &\multicolumn{2}{|c|}{} & \multicolumn{2}{|c|}{}\\
+\hline
+&&Snapshots&DICCG&Snapshots&DICCG&Snapshots&DICCG\\
+\hline
+$35\times35$&DICCG$_{10}$&&&&&& \\
+&DICCG$_6$&&&&&& \\
+\hline
+$70\times70$&DICCG$_{10}$ && &&&& \\
+&DICCG$_6$ &&&& &&\\
+\hline
+$105\times105$&DICCG$_{10}$ && && && \\
+&DICCG$_6$&& && && \\
+\hline
+ \end{tabular}
+%\caption{}\label{table:liter2}
+\end{minipage}
+\end{table}
+
+
+
+\begin{table}[!h]
+\begin{minipage}{1\textwidth}
+\vspace{-10pt}
+\centering
+\begin{tabular}{ |c|c|c|c|c|} 
+
+\hline
+Size&Method& ICCG & Snapshots+DICCG &\% \\
+\hline
+$35\times35$ &DICCG$_{10}$& &  & \\
+&DICCG$_6$& &  & \\
+\hline
+$70\times70$ &DICCG$_{10}$& &  & \\
+ &DICCG$_6$& &  & \\
+\hline
+$105\times105$ &DICCG$_{10}$& &  & \\
+ &DICCG$_6$& &  & \\
+ \hline
+ \end{tabular}
+%\caption{ }\label{table:litertot2}
+\end{minipage}
+\end{table}
+
+
+
+\begin{table}[!h]
+\begin{minipage}{1\textwidth}
+\vspace{-10pt}
+\centering
+\begin{tabular}{ |c|c|c|c|c|} 
+
+\hline
+Size&Method& ICCG & Snapshots+DICCG &\% \\
+\hline
+$35\times35$ &DICCG$_{10}$& &  & \\
+&DICCG$_6$& &  & \\
+\hline
+$70\times70$ &DICCG$_{10}$& &  & \\
+ &DICCG$_6$& &  & \\
+\hline
+$105\times105$ &DICCG$_{10}$& &  & \\
+ &DICCG$_6$& &  & \\
+ \hline
+ \end{tabular}
+%\caption{ }\label{table:litertot2}
+\end{minipage}
+\end{table}
+\end{document}

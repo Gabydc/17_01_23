@@ -1,0 +1,1683 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.5)  29 NOV 2016 15:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report16_11_29.tex
+(./report16_11_29.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 29 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count87
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen103
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks20
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks21
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks22
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup7
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count100
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/05/25 v2.7 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count102
+File: xkeyval.tex 2014/05/25 v2.7 key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box28
+)
+\tc@llx=\dimen114
+\tc@lly=\dimen115
+\tc@urx=\dimen116
+\tc@ury=\dimen117
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen118
+\adjbox@Height=\dimen119
+\adjbox@Depth=\dimen120
+\adjbox@Totalheight=\dimen121
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box29
+\sift@deathcycles=\count104
+\@vwid@loff=\dimen122
+\@vwid@roff=\dimen123
+))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks27
+\float@box=\box30
+\@float@everytoks=\toks28
+\@floatcapt=\box31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen124
+\captionmargin@=\dimen125
+\captionwidth=\dimen126
+\caption@tempdima=\dimen127
+\caption@indent=\dimen128
+\caption@parindent=\dimen129
+\caption@hangindent=\dimen130
+)
+\c@ContinuedFloat=\count106
+Package caption Info: float package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen131
+\WF@size=\dimen132
+\c@WF@wrappedlines=\count107
+\WF@box=\box32
+\WF@everypar=\toks29
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip48
+\@affilsep=\skip49
+\c@Maxaffil=\count108
+\c@authors=\count109
+\c@affil=\count110
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip50
+\subfigcapskip=\skip51
+\subfigcaptopadj=\dimen133
+\subfigbottomskip=\skip52
+\subfigcapmargin=\dimen134
+\subfiglabelskip=\skip53
+\c@subfigure=\count111
+\c@lofdepth=\count112
+\c@subtable=\count113
+\c@lotdepth=\count114
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip54
+\subfig@bottom=\skip55
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/a4wide/a4wide.sty
+Package: a4wide 1994/08/30
+
+(/usr/share/texlive/texmf-dist/tex/latex/ntgclass/a4.sty
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen135
+\extrarowheight=\dimen136
+\NC@list=\toks30
+\extratabsurround=\skip56
+\backup@length=\skip57
+) (./report16_11_29.aux
+
+LaTeX Warning: Label `table:case2' multiply defined.
+
+
+LaTeX Warning: Label `table:literspe1' multiply defined.
+
+
+LaTeX Warning: Label `table:literspe1' multiply defined.
+
+)
+\openout1 = `report16_11_29.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+ (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen137
+\scratchbox=\box33
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen138
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks32
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfigure package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 36.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 36.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 36.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 36.
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 38--47
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 173--178
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 204--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 239--243
+
+ []
+
+
+Overfull \hbox (21.1423pt too wide) in paragraph at lines 255--271
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 279--285
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 325--330
+
+ []
+
+
+LaTeX Warning: Reference `a4' on page 9 undefined on input line 341.
+
+[9]
+
+LaTeX Warning: Reference `a4' on page 10 undefined on input line 346.
+
+[10] [11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 436--443
+
+ []
+
+[13] [14]
+
+LaTeX Warning: Reference `defprop' on page 15 undefined on input line 538.
+
+
+LaTeX Warning: Reference `defprop' on page 15 undefined on input line 538.
+
+[15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 606--628
+
+ []
+
+[17]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 629.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 629.
+
+Underfull \hbox (badness 10000) in paragraph at lines 636--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 636--655
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 655--658
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 655--658
+
+ []
+
+[19]
+Overfull \hbox (7.88739pt too wide) in paragraph at lines 679--700
+ [][] 
+ []
+
+<images_prev/perm_he_1.jpg, id=87, 481.8pt x 382.42876pt>
+File: images_prev/perm_he_1.jpg Graphic file (type jpg)
+
+<use images_prev/perm_he_1.jpg>
+Package pdftex.def Info: images_prev/perm_he_1.jpg used on input line 709.
+(pdftex.def)             Requested size: 122.34642pt x 97.11247pt.
+
+Underfull \hbox (badness 2932) in paragraph at lines 711--711
+[]\OT1/cmr/m/n/10 Figure 1: |Het-ero-ge-neous
+ []
+
+[20] <images_prev/conv_4w.jpg, id=91, 1204.5pt x 903.375pt>
+File: images_prev/conv_4w.jpg Graphic file (type jpg)
+
+<use images_prev/conv_4w.jpg>
+Package pdftex.def Info: images_prev/conv_4w.jpg used on input line 757.
+(pdftex.def)             Requested size: 142.25475pt x 106.69106pt.
+
+<images_prev/sol_4w.jpg, id=92, 776.9025pt x 385.17528pt>
+File: images_prev/sol_4w.jpg Graphic file (type jpg)
+
+<use images_prev/sol_4w.jpg>
+Package pdftex.def Info: images_prev/sol_4w.jpg used on input line 765.
+(pdftex.def)             Requested size: 184.94302pt x 91.69165pt.
+
+Overfull \hbox (0.65735pt too wide) in paragraph at lines 765--766
+ [][] 
+ []
+
+[21 <./images_prev/perm_he_1.jpg> <./images_prev/conv_4w.jpg> <./images_prev/so
+l_4w.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 838--839
+
+ []
+
+
+</mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11/perm
+.jpg, id=97, 1040.88875pt x 816.04875pt>
+File: /mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11
+/perm.jpg Graphic file (type jpg)
+
+<use /mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11/
+perm.jpg>
+Package pdftex.def Info: /mnt/sda2/cortes/Results/sp_article/Incompressible/siz
+e_64perm_2_5wells11/perm.jpg used on input line 843.
+(pdftex.def)             Requested size: 133.71614pt x 104.83241pt.
+
+Overfull \hbox (11.36922pt too wide) in paragraph at lines 843--845
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 845--845
+[]\OT1/cmr/m/n/10 Figure 4: |Het-ero-ge-neous
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 848--851
+[][]\OT1/cmr/m/n/12 As in the pre-vi-ous case, single-phase flow through a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--851
+
+ []
+
+
+</mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11/eig_
+pod.jpg, id=98, 543.02875pt x 412.54124pt>
+File: /mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11
+/eig_pod.jpg Graphic file (type jpg)
+
+<use /mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11/
+eig_pod.jpg>
+Package pdftex.def Info: /mnt/sda2/cortes/Results/sp_article/Incompressible/siz
+e_64perm_2_5wells11/eig_pod.jpg used on input line 857.
+(pdftex.def)             Requested size: 199.16914pt x 151.30965pt.
+ [22 </mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11
+/perm.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 864--868
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 891--894
+
+ []
+
+
+</mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11/conv
+_deftol-11.jpg, id=103, 1128.215pt x 870.25125pt>
+File: /mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11
+/conv_deftol-11.jpg Graphic file (type jpg)
+
+<use /mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11/
+conv_deftol-11.jpg>
+Package pdftex.def Info: /mnt/sda2/cortes/Results/sp_article/Incompressible/siz
+e_64perm_2_5wells11/conv_deftol-11.jpg used on input line 901.
+(pdftex.def)             Requested size: 184.94238pt x 142.65573pt.
+
+Overfull \hbox (0.65671pt too wide) in paragraph at lines 901--902
+ [][] 
+ []
+
+
+</mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11/solp
+odtol-11.jpg, id=104, 801.99625pt x 838.13126pt>
+File: /mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11
+/solpodtol-11.jpg Graphic file (type jpg)
+
+<use /mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11/
+solpodtol-11.jpg>
+Package pdftex.def Info: /mnt/sda2/cortes/Results/sp_article/Incompressible/siz
+e_64perm_2_5wells11/solpodtol-11.jpg used on input line 910.
+(pdftex.def)             Requested size: 108.90117pt x 113.80785pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23 </mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11/
+eig_pod.jpg>]
+<images_prev/perm_layer_2.jpg, id=108, 188.53044pt x 438.38506pt>
+File: images_prev/perm_layer_2.jpg Graphic file (type jpg)
+
+<use images_prev/perm_layer_2.jpg>
+Package pdftex.def Info: images_prev/perm_layer_2.jpg used on input line 937.
+(pdftex.def)             Requested size: 55.06366pt x 128.03813pt.
+
+<images_prev/perm_layer_.jpg, id=109, 1204.5pt x 903.375pt>
+File: images_prev/perm_layer_.jpg Graphic file (type jpg)
+
+<use images_prev/perm_layer_.jpg>
+Package pdftex.def Info: images_prev/perm_layer_.jpg used on input line 945.
+(pdftex.def)             Requested size: 156.48022pt x 117.36017pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24 </mnt/sda2/cortes/Results/sp_article/Incompressible/size_64perm_2_5wells11/
+conv_deftol-11.jpg> </mnt/sda2/cortes/Results/sp_article/Incompressible/size_64
+perm_2_5wells11/solpodtol-11.jpg>]
+</mnt/sda2/cortes/Results/16_09/article_sp/SPE10_85layers_5w_tol-11/conv_deftol
+-11.jpg, id=113, 1204.5pt x 903.375pt>
+File: /mnt/sda2/cortes/Results/16_09/article_sp/SPE10_85layers_5w_tol-11/conv_d
+eftol-11.jpg Graphic file (type jpg)
+
+<use /mnt/sda2/cortes/Results/16_09/article_sp/SPE10_85layers_5w_tol-11/conv_de
+ftol-11.jpg>
+Package pdftex.def Info: /mnt/sda2/cortes/Results/16_09/article_sp/SPE10_85laye
+rs_5w_tol-11/conv_deftol-11.jpg used on input line 993.
+(pdftex.def)             Requested size: 199.15665pt x 149.36748pt.
+
+</mnt/sda2/cortes/Results/16_09/article_sp/SPE10_85layers_5w_tol-11/solution.jp
+g, id=114, 1204.5pt x 903.375pt>
+File: /mnt/sda2/cortes/Results/16_09/article_sp/SPE10_85layers_5w_tol-11/soluti
+on.jpg Graphic file (type jpg)
+
+<use /mnt/sda2/cortes/Results/16_09/article_sp/SPE10_85layers_5w_tol-11/solutio
+n.jpg>
+Package pdftex.def Info: /mnt/sda2/cortes/Results/16_09/article_sp/SPE10_85laye
+rs_5w_tol-11/solution.jpg used on input line 1001.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25 <./images_prev/perm_layer_2.jpg> <./images_prev/perm_layer_.jpg>] [26 </mnt
+/sda2/cortes/Results/16_09/article_sp/SPE10_85layers_5w_tol-11/conv_deftol-11.j
+pg> </mnt/sda2/cortes/Results/16_09/article_sp/SPE10_85layers_5w_tol-11/solutio
+n.jpg>] <images_prev/perm_comp.jpg, id=122, 225.45097pt x 221.57506pt>
+File: images_prev/perm_comp.jpg Graphic file (type jpg)
+
+<use images_prev/perm_comp.jpg>
+Package pdftex.def Info: images_prev/perm_comp.jpg used on input line 1020.
+(pdftex.def)             Requested size: 142.26878pt x 139.82292pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1013--1025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1036--1038
+
+ []
+
+[27
+
+ <./images_prev/perm_comp.jpg>]
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/size_35perm_1_5wells_c_1e
+-3_s_52upd/solution.jpg, id=126, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/size_35perm_1_5wells
+_c_1e-3_s_52upd/solution.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/size_35perm_1_5wells_
+c_1e-3_s_52upd/solution.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/s
+ize_35perm_1_5wells_c_1e-3_s_52upd/solution.jpg used on input line 1061.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_1_5
+wells_c_1e-3_s_52upddv_10/eigs/eigs1stepA.jpg, id=127, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_1_5wells_c_1e-3_s_52upddv_10/eigs/eigs1stepA.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_1_5wells_c_1e-3_s_52upddv_10/eigs/eigs1stepA.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_1_5wells_c_1e-3_s_52upddv_10/eigs/eigs1stepA.jpg used on i
+nput line 1073.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_1_5
+wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg, id=128, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_1_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_1_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_1_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg used on 
+input line 1081.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+ [28 </home/wagm/cortes/Localdisk/Results/sp_article/10_13/size_35perm_1_5wells
+_c_1e-3_s_52upd/solution.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1098
+
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_1_5
+wells_c_1e-3_s_52upd/iterations_4NR.jpg, id=132, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_1_5wells_c_1e-3_s_52upd/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_1_5wells_c_1e-3_s_52upd/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_1_5wells_c_1e-3_s_52upd/iterations_4NR.jpg used on input l
+ine 1107.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1105--1109
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_1_5
+wells_c_1e-3_s_52upd/eigs/eigs1step.jpg, id=133, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_1_5wells_c_1e-3_s_52upd/eigs/eigs1step.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_1_5wells_c_1e-3_s_52upd/eigs/eigs1step.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_1_5wells_c_1e-3_s_52upd/eigs/eigs1step.jpg used on input l
+ine 1117.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm_2_5
+wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg, id=134, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg used on in
+put line 1131.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1129--1133
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm_2_5
+wells_c_1e-3_s_52upddv_10/eigs/eigsPA11step.jpg, id=135, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upddv_10/eigs/eigsPA11step.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10/eigs/eigsPA11step.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10/eigs/eigsPA11step.jpg used on
+ input line 1140.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_1_5
+wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg, id=136, 1204.5pt x 903.375
+pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_1_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg Graphic file (type jpg
+)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_1_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_1_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg use
+d on input line 1154.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1152--1156
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_1_5
+wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg, id=137, 1204.5pt x 903.
+375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_1_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg Graphic file (type 
+jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_1_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_1_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg 
+used on input line 1163.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `def' on page 29 undefined on input line 1169.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1169--1170
+
+ []
+
+[29 </home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_1_5wells_c_1e-3_s_52upddv_10/eigs/eigs1stepA.jpg> </home/wagm/cortes/Localdisk
+/Results/sp_article/10_13/lenght_70size_35/perm_1_5wells_c_1e-3_s_52upddv_10pod
+5-10/eig_pod20.jpg> </home/wagm/cortes/Localdisk/Results/sp_article/10_13/lengh
+t_70size_35/perm_1_5wells_c_1e-3_s_52upd/iterations_4NR.jpg> </home/wagm/cortes
+/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_1_5wells_c_1e-3_s_52u
+pd/eigs/eigs1step.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1187--1189
+
+ []
+
+[30 </home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg> </home/wagm/cortes/Localdisk/
+Results/sp_article/10_16/lenght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10/eig
+s/eigsPA11step.jpg> </home/wagm/cortes/Localdisk/Results/sp_article/10_13/lengh
+t_70size_35/perm_1_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg> </home
+/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_1_5wells_
+c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg>]
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_2_5
+wells_c_1e-3_s_52upddv_10pod5-10/solution.jpg, id=144, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upddv_10pod5-10/solution.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10pod5-10/solution.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10pod5-10/solution.jpg used on i
+nput line 1206.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_2_5
+wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1stepA.jpg, id=145, 1204.5pt x 903.37
+5pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1stepA.jpg Graphic file (type jp
+g)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1stepA.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1stepA.jpg us
+ed on input line 1217.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_2_5
+wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg, id=146, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg used on 
+input line 1225.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1233--1249
+
+ []
+
+[31]
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_2_5
+wells_c_1e-3_s_52upd/iterations_4NR.jpg, id=151, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upd/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upd/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upd/iterations_4NR.jpg used on input l
+ine 1256.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1254--1258
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_2_5
+wells_c_1e-3_s_52upd/eigs/eigs1step.jpg, id=152, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upd/eigs/eigs1step.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upd/eigs/eigs1step.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upd/eigs/eigs1step.jpg used on input l
+ine 1266.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg used on in
+put line 1279.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1277--1281
+[]  []
+ []
+
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upddv_10/eigs/eigsPA11step.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10/eigs/eigsPA11step.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10/eigs/eigsPA11step.jpg used on
+ input line 1288.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_2_5
+wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg, id=153, 1204.5pt x 903.375
+pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg Graphic file (type jpg
+)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg use
+d on input line 1301.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1299--1303
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_2_5
+wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg, id=154, 1204.5pt x 903.
+375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg Graphic file (type 
+jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg 
+used on input line 1310.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_2_5
+wells_c_1e-3_s_52upddv_10pod4-10/iterations_4NR.jpg, id=155, 1204.5pt x 903.375
+pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upddv_10pod4-10/iterations_4NR.jpg Graphic file (type jpg
+)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10pod4-10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10pod4-10/iterations_4NR.jpg use
+d on input line 1322.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1320--1324
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_2_5
+wells_c_1e-3_s_52upddv_10pod4-10/eigs/eigsPA11step.jpg, id=156, 1204.5pt x 903.
+375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_2_5wells_c_1e-3_s_52upddv_10pod4-10/eigs/eigsPA11step.jpg Graphic file (type 
+jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10pod4-10/eigs/eigsPA11step.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10pod4-10/eigs/eigsPA11step.jpg 
+used on input line 1331.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32 </home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10pod5-10/solution.jpg> </home/wagm/cortes/Localdisk
+/Results/sp_article/10_13/lenght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10pod
+5-10/eigs/eigs1stepA.jpg> </home/wagm/cortes/Localdisk/Results/sp_article/10_13
+/lenght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1338--1339
+
+ []
+
+[33 </home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upd/iterations_4NR.jpg> </home/wagm/cortes/Localdisk/Resul
+ts/sp_article/10_13/lenght_70size_35/perm_2_5wells_c_1e-3_s_52upd/eigs/eigs1ste
+p.jpg>]
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_3_5
+wells_c_1e-3_s_52upd/solution.jpg, id=163, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_3_5wells_c_1e-3_s_52upd/solution.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upd/solution.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_3_5wells_c_1e-3_s_52upd/solution.jpg used on input line 13
+50.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_3_5
+wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1stepA.jpg, id=164, 1204.5pt x 903.37
+5pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_3_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1stepA.jpg Graphic file (type jp
+g)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1stepA.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1stepA.jpg us
+ed on input line 1361.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_3_5
+wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg, id=165, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_3_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg used on 
+input line 1369.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1376--1378
+
+ []
+
+[34 </home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_2_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg> </home/wagm/cortes/Loc
+aldisk/Results/sp_article/10_13/lenght_70size_35/perm_2_5wells_c_1e-3_s_52upddv
+_10pod5-10/eigs/eigsPA11step.jpg> </home/wagm/cortes/Localdisk/Results/sp_artic
+le/10_13/lenght_70size_35/perm_2_5wells_c_1e-3_s_52upddv_10pod4-10/iterations_4
+NR.jpg> </home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/
+perm_2_5wells_c_1e-3_s_52upddv_10pod4-10/eigs/eigsPA11step.jpg>]
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_3_5
+wells_c_1e-3_s_52upd/iterations_4NR.jpg, id=169, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_3_5wells_c_1e-3_s_52upd/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upd/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_3_5wells_c_1e-3_s_52upd/iterations_4NR.jpg used on input l
+ine 1386.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1384--1388
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_3_5
+wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1step.jpg, id=170, 1204.5pt x 903.375
+pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_3_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1step.jpg Graphic file (type jpg
+)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1step.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigs1step.jpg use
+d on input line 1396.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm_3_5
+wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg, id=171, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/per
+m_3_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg used on in
+put line 1409.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1407--1411
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm_3_5
+wells_c_1e-3_s_52upddv_10/eigs/eigsPA11step.jpg, id=172, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/per
+m_3_5wells_c_1e-3_s_52upddv_10/eigs/eigsPA11step.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upddv_10/eigs/eigsPA11step.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10/eigs/eigsPA11step.jpg used on
+ input line 1418.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_3_5
+wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg, id=173, 1204.5pt x 903.375
+pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_3_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg Graphic file (type jpg
+)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg use
+d on input line 1432.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1430--1434
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_3_5
+wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg, id=174, 1204.5pt x 903.
+375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_3_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg Graphic file (type 
+jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg 
+used on input line 1441.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_3_5
+wells_c_1e-3_s_52upddv_10pod4-10/iterations_4NR.jpg, id=175, 1204.5pt x 903.375
+pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_3_5wells_c_1e-3_s_52upddv_10pod4-10/iterations_4NR.jpg Graphic file (type jpg
+)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upddv_10pod4-10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10pod4-10/iterations_4NR.jpg use
+d on input line 1453.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1451--1455
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_3_5
+wells_c_1e-3_s_52upddv_10pod4-10/eigs/eigsPA11step.jpg, id=176, 1204.5pt x 903.
+375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/per
+m_3_5wells_c_1e-3_s_52upddv_10pod4-10/eigs/eigsPA11step.jpg Graphic file (type 
+jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upddv_10pod4-10/eigs/eigsPA11step.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_13/l
+enght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10pod4-10/eigs/eigsPA11step.jpg 
+used on input line 1462.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[35 </home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upd/solution.jpg> </home/wagm/cortes/Localdisk/Results/sp_
+article/10_13/lenght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/ei
+gs1stepA.jpg> </home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70si
+ze_35/perm_3_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg>]
+
+LaTeX Warning: Reference `table: liter2' on page 36 undefined on input line 147
+0.
+
+[36 </home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm
+_3_5wells_c_1e-3_s_52upd/iterations_4NR.jpg> </home/wagm/cortes/Localdisk/Resul
+ts/sp_article/10_13/lenght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10pod5-10/e
+igs/eigs1step.jpg> </home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght
+_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg> </home/wagm/co
+rtes/Localdisk/Results/sp_article/10_16/lenght_70size_35/perm_3_5wells_c_1e-3_s
+_52upddv_10/eigs/eigsPA11step.jpg>] [37 </home/wagm/cortes/Localdisk/Results/sp
+_article/10_13/lenght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10pod5-10/iterat
+ions_4NR.jpg> </home/wagm/cortes/Localdisk/Results/sp_article/10_13/lenght_70si
+ze_35/perm_3_5wells_c_1e-3_s_52upddv_10pod5-10/eigs/eigsPA11step.jpg> </home/wa
+gm/cortes/Localdisk/Results/sp_article/10_13/lenght_70size_35/perm_3_5wells_c_1
+e-3_s_52upddv_10pod4-10/iterations_4NR.jpg> </home/wagm/cortes/Localdisk/Result
+s/sp_article/10_13/lenght_70size_35/perm_3_5wells_c_1e-3_s_52upddv_10pod4-10/ei
+gs/eigsPA11step.jpg>] [38] [39] [40]
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/perm_1_
+5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg, id=196, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/pe
+rm_1_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/per
+m_1_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_105/perm_1_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg used on
+ input line 1661.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_70/perm_1_5
+wells_c_1e-3_s_52upd/iterations_4NR.jpg, id=197, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_70/per
+m_1_5wells_c_1e-3_s_52upd/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_70/perm
+_1_5wells_c_1e-3_s_52upd/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_70/perm_1_5wells_c_1e-3_s_52upd/iterations_4NR.jpg used on input l
+ine 1671.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1669--1673
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_70/perm_1_5
+wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg, id=198, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_70/per
+m_1_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_70/perm
+_1_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_70/perm_1_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg used on in
+put line 1684.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1682--1686
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/perm_1_
+5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg, id=199, 1204.5pt x 903.37
+5pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/pe
+rm_1_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg Graphic file (type jp
+g)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/per
+m_1_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_105/perm_1_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg us
+ed on input line 1693.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1691--1695
+[]  []
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41
+
+ </home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/perm_1
+_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg> </home/wagm/cortes/Localdisk/
+Results/sp_article/10_16/lenght_70size_70/perm_1_5wells_c_1e-3_s_52upd/iteratio
+ns_4NR.jpg>]
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/pe
+rm_1_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/per
+m_1_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_105/perm_1_5wells_c_1e-3_s_52upddv_10pod5-10/eig_pod20.jpg used on
+ input line 1734.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/perm_1_
+5wells_c_1e-3_s_52upd/iterations_4NR.jpg, id=203, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/pe
+rm_1_5wells_c_1e-3_s_52upd/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/per
+m_1_5wells_c_1e-3_s_52upd/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_105/perm_1_5wells_c_1e-3_s_52upd/iterations_4NR.jpg used on input 
+line 1744.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1742--1746
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/perm_1_
+5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg, id=204, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/pe
+rm_1_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/per
+m_1_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_105/perm_1_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg used on i
+nput line 1757.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1755--1759
+[]  []
+ []
+
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/pe
+rm_1_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg Graphic file (type jp
+g)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/per
+m_1_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/l
+enght_70size_105/perm_1_5wells_c_1e-3_s_52upddv_10pod5-10/iterations_4NR.jpg us
+ed on input line 1766.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1764--1768
+[]  []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1775--1782
+
+ []
+
+[42 </home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_70/perm
+_1_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg> </home/wagm/cortes/Localdisk/
+Results/sp_article/10_16/lenght_70size_105/perm_1_5wells_c_1e-3_s_52upddv_10pod
+5-10/iterations_4NR.jpg> </home/wagm/cortes/Localdisk/Results/sp_article/10_16/
+lenght_70size_105/perm_1_5wells_c_1e-3_s_52upd/iterations_4NR.jpg>]
+Overfull \hbox (10.50858pt too wide) in paragraph at lines 1789--1814
+ [][] 
+ []
+
+
+Overfull \hbox (10.50858pt too wide) in paragraph at lines 1822--1847
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1851--1852
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1851--1852
+
+ []
+
+[43 </home/wagm/cortes/Localdisk/Results/sp_article/10_16/lenght_70size_105/per
+m_1_5wells_c_1e-3_s_52upddv_10/iterations_4NR.jpg>]
+Overfull \hbox (11.47095pt too wide) in paragraph at lines 1857--1875
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (11.47095pt too wide) in paragraph at lines 1886--1904
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[44] [45]
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5wells
+_c_1e-3upddv_10pod4-10/eig_pod20.jpg, id=218, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5
+wells_c_1e-3upddv_10pod4-10/eig_pod20.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5w
+ells_c_1e-3upddv_10pod4-10/eig_pod20.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/S
+PE10/SPE10_60_220_5wells_c_1e-3upddv_10pod4-10/eig_pod20.jpg used on input line
+ 1926.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5wells
+_c_1e-3upd/iterations_4NR.jpg, id=219, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5
+wells_c_1e-3upd/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5w
+ells_c_1e-3upd/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/S
+PE10/SPE10_60_220_5wells_c_1e-3upd/iterations_4NR.jpg used on input line 1936.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1934--1938
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5wells
+_c_1e-3upddv_10/iterations_4NR.jpg, id=220, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5
+wells_c_1e-3upddv_10/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5w
+ells_c_1e-3upddv_10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/S
+PE10/SPE10_60_220_5wells_c_1e-3upddv_10/iterations_4NR.jpg used on input line 1
+949.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1947--1951
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5wells
+_c_1e-3upddv_10pod4-10/iterations_4NR.jpg, id=221, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5
+wells_c_1e-3upddv_10pod4-10/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5w
+ells_c_1e-3upddv_10pod4-10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/S
+PE10/SPE10_60_220_5wells_c_1e-3upddv_10pod4-10/iterations_4NR.jpg used on input
+ line 1958.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 1956--1960
+[]  []
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[46
+
+ </home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5well
+s_c_1e-3upddv_10pod4-10/eig_pod20.jpg> </home/wagm/cortes/Localdisk/Results/sp_
+article/10_16/SPE10/SPE10_60_220_5wells_c_1e-3upd/iterations_4NR.jpg>]
+Overfull \hbox (11.8322pt too wide) in paragraph at lines 1979--1994
+ [][] 
+ []
+
+
+Overfull \hbox (11.8322pt too wide) in paragraph at lines 2003--2018
+ [][] 
+ []
+
+[47 </home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10/SPE10_60_220_5w
+ells_c_1e-3upddv_10/iterations_4NR.jpg> </home/wagm/cortes/Localdisk/Results/sp
+_article/10_16/SPE10/SPE10_60_220_5wells_c_1e-3upddv_10pod4-10/iterations_4NR.j
+pg>]
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60_5wel
+ls_c_1e-3upddv_10pod7-10/eig_pod20.jpg, id=228, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60
+_5wells_c_1e-3upddv_10pod7-10/eig_pod20.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60_
+5wells_c_1e-3upddv_10pod7-10/eig_pod20.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/S
+PE10_85/SPE10_85_60_5wells_c_1e-3upddv_10pod7-10/eig_pod20.jpg used on input li
+ne 2035.
+(pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60_5wel
+ls_c_1e-3upd/iterations_4NR.jpg, id=229, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60
+_5wells_c_1e-3upd/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60_
+5wells_c_1e-3upd/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/S
+PE10_85/SPE10_85_60_5wells_c_1e-3upd/iterations_4NR.jpg used on input line 2045
+.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 2043--2047
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60_5wel
+ls_c_1e-3upddv_10/iterations_4NR.jpg, id=230, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60
+_5wells_c_1e-3upddv_10/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60_
+5wells_c_1e-3upddv_10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/S
+PE10_85/SPE10_85_60_5wells_c_1e-3upddv_10/iterations_4NR.jpg used on input line
+ 2058.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 2056--2060
+[]  []
+ []
+
+
+</home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60_5wel
+ls_c_1e-3upddv_10pod7-10/iterations_4NR.jpg, id=231, 1204.5pt x 903.375pt>
+File: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60
+_5wells_c_1e-3upddv_10pod7-10/iterations_4NR.jpg Graphic file (type jpg)
+
+<use /home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60_
+5wells_c_1e-3upddv_10pod7-10/iterations_4NR.jpg>
+Package pdftex.def Info: /home/wagm/cortes/Localdisk/Results/sp_article/10_16/S
+PE10_85/SPE10_85_60_5wells_c_1e-3upddv_10pod7-10/iterations_4NR.jpg used on inp
+ut line 2067.
+(pdftex.def)             Requested size: 227.60759pt x 170.70569pt.
+
+Overfull \hbox (17.48026pt too wide) in paragraph at lines 2065--2069
+[]  []
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[48 </home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60_
+5wells_c_1e-3upddv_10pod7-10/eig_pod20.jpg> </home/wagm/cortes/Localdisk/Result
+s/sp_article/10_16/SPE10_85/SPE10_85_60_5wells_c_1e-3upd/iterations_4NR.jpg>]
+Overfull \hbox (11.8322pt too wide) in paragraph at lines 2087--2102
+ [][] 
+ []
+
+
+Overfull \hbox (11.8322pt too wide) in paragraph at lines 2111--2127
+ [][] 
+ []
+
+[49 </home/wagm/cortes/Localdisk/Results/sp_article/10_16/SPE10_85/SPE10_85_60_
+5wells_c_1e-3upddv_10/iterations_4NR.jpg> </home/wagm/cortes/Localdisk/Results/
+sp_article/10_16/SPE10_85/SPE10_85_60_5wells_c_1e-3upddv_10pod7-10/iterations_4
+NR.jpg>] [50] [51
+
+] [52] (./report16_11_29.bbl [53]) [54] [55] [56] [57]
+(./report16_11_29.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5759 strings out of 494409
+ 109840 string characters out of 6164778
+ 166134 words of memory out of 5000000
+ 8802 multiletter control sequences out of 15000+600000
+ 18496 words of font info for 76 fonts, out of 8000000 for 9000
+ 372 hyphenation exceptions out of 8191
+ 53i,14n,92p,1062b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on report16_11_29.pdf (57 pages, 4380173 bytes).
+PDF statistics:
+ 349 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 276 words of extra memory for PDF output out of 10000 (max. 10000000)
+
